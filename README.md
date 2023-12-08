@@ -54,5 +54,5 @@ The Inventory Management System is a comprehensive Java-based application develo
 2. **Compile and Run:**
    ```bash
    cd Inventory-Management-System
-  javac Main.java
-  java Main
+   javac Main.java
+   java Main
