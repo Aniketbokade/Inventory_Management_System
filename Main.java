@@ -227,7 +227,6 @@ public class Main extends JFrame {
 
             for (OrderItem orderItem : orders) {
                 ordersReport.append("Product: ")
-                        .append("\t")
                         .append(orderItem.getProduct().getName())
                         .append(", Quantity Sold: ")
                         .append(orderItem.getQuantity())
