@@ -51,4 +51,8 @@ The Inventory Management System is a comprehensive Java-based application develo
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/your-username/Inventory-Management-System.git
-
+2. **Compile and Run:**
+   ```bash
+   cd Inventory-Management-System
+  javac Main.java
+  java Main
