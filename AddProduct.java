@@ -3,7 +3,6 @@ import javax.swing.*;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-import java.util.List;
 
 public class AddProduct {
     public static Product addProduct(JFrame parent) {
