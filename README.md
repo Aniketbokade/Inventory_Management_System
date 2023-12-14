@@ -61,23 +61,27 @@ The Inventory Management System is a comprehensive Java-based application develo
 ### 1. 
 <img width="480" alt="image_1" src="/Images/1.png">
 
-### 2. 
+### 2. Add Product
+**When clicking the "Add Product" button, a dialog box will prompt for product details, such as name, quantity, price, net weight, and expiry date. The entered product is then added to inventory.**
 <img width="480" alt="image_2" src="/Images/2.png">
 
-### 3. 
+### 3. Sell Product
+**When clicking the "Add Product" button, a dialog box will prompt for product details, such as name, quantity, price, net weight, and expiry date. The entered product is then added to inventory.**
 <img width="480" alt="image_3" src="/Images/3.png">
 
-### 4. 
-<img width="480" alt="image_4" src="/Images/4.png">
 
-### 5. 
+<img width="480" alt="image_4" src="/Images/4.png">
+ 
 <img width="480" alt="image_5" src="/Images/5.png">
 
-### 6. 
+### 4. Order Summary of Sell product
+**After selling products, an order summary displays, including details such as product names, quantities, and the associated client's name. This summary helps track sales transactions efficiently.**
 <img width="480" alt="image_6" src="/Images/6.png">
 
-### 7. 
+### 5. Generates Report
+**Generating a report involves compiling an inventory report with details on each product, including quantity, price, and net weight. Additionally, a sales record is included, detailing products sold and associated client information.**
 <img width="480" alt="image_7" src="/Images/7.png">
 
-### 8. 
+### 6. Stock and Expiry button
+**The "Stock Alert" button identifies products with low stock (less than or equal to 10 units) and triggers an alert. Similarly, the "Expiry Alert" button notifies when a product is nearing expiry within one month.**
 <img width="480" alt="image_8" src="/Images/8.png">
