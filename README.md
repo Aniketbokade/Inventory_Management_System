@@ -10,7 +10,6 @@ The Inventory Management System is a comprehensive Java-based application develo
 ### 1. Product Management
 
 - **Add Products:** Easily add new products to the system with detailed information such as product name, price, quantity, net weight, and expiry date.
-<img width="154" alt="add_produact" src="/Images/1.png">
   
 - **Update Products:** Keep product details up-to-date by modifying prices, quantities, or other attributes as needed.
 
@@ -55,3 +54,30 @@ The Inventory Management System is a comprehensive Java-based application develo
    cd Inventory-Management-System
    javac Main.java
    java Main
+
+
+## Demo Images
+
+### 1. 
+<img width="480" alt="image_1" src="/Images/1.png">
+
+### 2. 
+<img width="480" alt="image_2" src="/Images/2.png">
+
+### 3. 
+<img width="480" alt="image_3" src="/Images/3.png">
+
+### 4. 
+<img width="480" alt="image_4" src="/Images/4.png">
+
+### 5. 
+<img width="480" alt="image_5" src="/Images/5.png">
+
+### 6. 
+<img width="480" alt="image_6" src="/Images/6.png">
+
+### 7. 
+<img width="480" alt="image_7" src="/Images/7.png">
+
+### 8. 
+<img width="480" alt="image_8" src="/Images/8.png">
